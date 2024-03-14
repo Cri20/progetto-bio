@@ -1,0 +1,1002 @@
+Variazione di: OL700521.1
+Posizione 210 : sostituzione G -> T  
+Posizione 241 : sostituzione C -> T  
+Posizione 3037 : sostituzione C -> T 
+Posizione 4181 : sostituzione G -> T 
+Posizione 6402 : sostituzione C -> T 
+Posizione 6408 : sostituzione C -> T 
+Posizione 7124 : sostituzione C -> T 
+Posizione 8986 : sostituzione C -> T 
+Posizione 9053 : sostituzione G -> T 
+Posizione 10029 : sostituzione C -> T
+Posizione 11201 : sostituzione A -> G
+Posizione 11332 : sostituzione A -> G
+Posizione 14408 : sostituzione C -> T
+Posizione 15451 : sostituzione G -> A
+Posizione 16466 : sostituzione C -> T
+Posizione 17236 : sostituzione A -> G
+Posizione 19220 : sostituzione C -> T
+Posizione 21618 : sostituzione C -> G
+Posizione 21800 : sostituzione G -> T
+Posizione 21987 : sostituzione G -> A
+Posizione 22029 : inserimento di A   
+Posizione 22030 : inserimento di G   
+Posizione 22031 : inserimento di T   
+Posizione 22032 : inserimento di T   
+Posizione 22033 : inserimento di C   
+Posizione 22034 : inserimento di A   
+Posizione 22917 : sostituzione T -> G
+Posizione 22995 : sostituzione C -> A
+Posizione 23403 : sostituzione A -> G
+Posizione 23604 : sostituzione C -> G
+Posizione 24208 : sostituzione C -> T
+Posizione 24410 : sostituzione G -> A
+Posizione 25469 : sostituzione C -> T
+Posizione 26767 : sostituzione T -> C
+Posizione 27638 : sostituzione T -> C
+Posizione 27752 : sostituzione C -> T
+Posizione 27874 : sostituzione C -> T
+Posizione 28248 : inserimento di G
+Posizione 28249 : inserimento di A
+Posizione 28250 : inserimento di T
+Posizione 28251 : inserimento di T
+Posizione 28252 : inserimento di T
+Posizione 28253 : inserimento di C
+Posizione 28271 : inserimento di A
+Posizione 28461 : sostituzione A -> G
+Posizione 28881 : sostituzione G -> T
+Posizione 28916 : sostituzione G -> T
+Posizione 29402 : sostituzione G -> T
+Posizione 29742 : sostituzione G -> T
+-----------------------------------------------------------------------------------------------------------------
+Variazione di: OL700526.1
+Posizione 210 : sostituzione G -> T
+Posizione 241 : sostituzione C -> T
+Posizione 3037 : sostituzione C -> T
+Posizione 4181 : sostituzione G -> T
+Posizione 6402 : sostituzione C -> T
+Posizione 7124 : sostituzione C -> T
+Posizione 8986 : sostituzione C -> T
+Posizione 9053 : sostituzione G -> T
+Posizione 9868 : sostituzione T -> C
+Posizione 10029 : sostituzione C -> T
+Posizione 11201 : sostituzione A -> G
+Posizione 11332 : sostituzione A -> G
+Posizione 14408 : sostituzione C -> T
+Posizione 15451 : sostituzione G -> A
+Posizione 16466 : sostituzione C -> T
+Posizione 17236 : sostituzione A -> G
+Posizione 18360 : sostituzione A -> G
+Posizione 19220 : sostituzione C -> T
+Posizione 21618 : sostituzione C -> G
+Posizione 21987 : sostituzione G -> A
+Posizione 22029 : inserimento di A
+Posizione 22030 : inserimento di G
+Posizione 22031 : inserimento di T
+Posizione 22032 : inserimento di T
+Posizione 22033 : inserimento di C
+Posizione 22034 : inserimento di A
+Posizione 22917 : sostituzione T -> G
+Posizione 22995 : sostituzione C -> A
+Posizione 23403 : sostituzione A -> G
+Posizione 23604 : sostituzione C -> G
+Posizione 24208 : sostituzione C -> T
+Posizione 24410 : sostituzione G -> A
+Posizione 24989 : sostituzione C -> T
+Posizione 25469 : sostituzione C -> T
+Posizione 25702 : sostituzione C -> T
+Posizione 26767 : sostituzione T -> C
+Posizione 27625 : sostituzione C -> T
+Posizione 27638 : sostituzione T -> C
+Posizione 27752 : sostituzione C -> T
+Posizione 27874 : sostituzione C -> T
+Posizione 28248 : inserimento di G
+Posizione 28249 : inserimento di A
+Posizione 28250 : inserimento di T
+Posizione 28251 : inserimento di T
+Posizione 28252 : inserimento di T
+Posizione 28253 : inserimento di C
+Posizione 28271 : inserimento di A
+Posizione 28461 : sostituzione A -> G
+Posizione 28881 : sostituzione G -> T
+Posizione 28895 : sostituzione G -> T
+Posizione 28916 : sostituzione G -> T
+Posizione 29402 : sostituzione G -> T
+Posizione 29742 : sostituzione G -> T
+-----------------------------------------------------------------------------------------------------------------
+Variazione di: OL700531.1
+Posizione 210 : sostituzione G -> T
+Posizione 241 : sostituzione C -> T
+Posizione 1048 : sostituzione G -> T
+Posizione 3037 : sostituzione C -> T
+Posizione 4181 : sostituzione G -> T
+Posizione 6402 : sostituzione C -> T
+Posizione 7124 : sostituzione C -> T
+Posizione 8986 : sostituzione C -> T
+Posizione 9053 : sostituzione G -> T
+Posizione 10029 : sostituzione C -> T
+Posizione 11201 : sostituzione A -> G
+Posizione 11332 : sostituzione A -> G
+Posizione 14408 : sostituzione C -> T
+Posizione 15451 : sostituzione G -> A
+Posizione 15982 : sostituzione G -> A
+Posizione 16466 : sostituzione C -> T
+Posizione 18468 : sostituzione A -> G
+Posizione 19220 : sostituzione C -> T
+Posizione 19983 : sostituzione C -> T
+Posizione 20937 : sostituzione G -> T
+Posizione 21618 : sostituzione C -> G
+Posizione 21987 : sostituzione G -> A
+Posizione 22000 : sostituzione C -> T
+Posizione 22029 : inserimento di A
+Posizione 22030 : inserimento di G
+Posizione 22031 : inserimento di T
+Posizione 22032 : inserimento di T
+Posizione 22033 : inserimento di C
+Posizione 22034 : inserimento di A
+Posizione 22917 : sostituzione T -> G
+Posizione 22995 : sostituzione C -> A
+Posizione 23403 : sostituzione A -> G
+Posizione 23604 : sostituzione C -> G
+Posizione 24410 : sostituzione G -> A
+Posizione 25469 : sostituzione C -> T
+Posizione 26514 : sostituzione A -> G
+Posizione 26767 : sostituzione T -> C
+Posizione 27527 : sostituzione C -> T
+Posizione 27638 : sostituzione T -> C
+Posizione 27752 : sostituzione C -> T
+Posizione 27874 : sostituzione C -> T
+Posizione 28086 : sostituzione G -> T
+Posizione 28248 : inserimento di G
+Posizione 28249 : inserimento di A
+Posizione 28250 : inserimento di T
+Posizione 28251 : inserimento di T
+Posizione 28252 : inserimento di T
+Posizione 28253 : inserimento di C
+Posizione 28271 : inserimento di A
+Posizione 28461 : sostituzione A -> G
+Posizione 28881 : sostituzione G -> T
+Posizione 28916 : sostituzione G -> T
+Posizione 29402 : sostituzione G -> T
+Posizione 29742 : sostituzione G -> T
+-----------------------------------------------------------------------------------------------------------------
+Variazione di: OL700532.1
+Posizione 210 : sostituzione G -> T
+Posizione 241 : sostituzione C -> T
+Posizione 2462 : sostituzione C -> T
+Posizione 3037 : sostituzione C -> T
+Posizione 4181 : sostituzione G -> T
+Posizione 4414 : sostituzione A -> G
+Posizione 5213 : sostituzione T -> C
+Posizione 6402 : sostituzione C -> T
+Posizione 7124 : sostituzione C -> T
+Posizione 8174 : sostituzione G -> A
+Posizione 8986 : sostituzione C -> T
+Posizione 9053 : sostituzione G -> T
+Posizione 10029 : sostituzione C -> T
+Posizione 11201 : sostituzione A -> G
+Posizione 11332 : sostituzione A -> G
+Posizione 11456 : sostituzione A -> G
+Posizione 14408 : sostituzione C -> T
+Posizione 15451 : sostituzione G -> A
+Posizione 16466 : sostituzione C -> T
+Posizione 19017 : sostituzione C -> T
+Posizione 19220 : sostituzione C -> T
+Posizione 19969 : sostituzione G -> T
+Posizione 21058 : sostituzione C -> T
+Posizione 21618 : sostituzione C -> G
+Posizione 21987 : sostituzione G -> A
+Posizione 22029 : inserimento di A
+Posizione 22030 : inserimento di G
+Posizione 22031 : inserimento di T
+Posizione 22032 : inserimento di T
+Posizione 22033 : inserimento di C
+Posizione 22034 : inserimento di A
+Posizione 22917 : sostituzione T -> G
+Posizione 22995 : sostituzione C -> A
+Posizione 23284 : sostituzione T -> C
+Posizione 23403 : sostituzione A -> G
+Posizione 23604 : sostituzione C -> G
+Posizione 24410 : sostituzione G -> A
+Posizione 25339 : sostituzione C -> T
+Posizione 25469 : sostituzione C -> T
+Posizione 26767 : sostituzione T -> C
+Posizione 27638 : sostituzione T -> C
+Posizione 27752 : sostituzione C -> T
+Posizione 27874 : sostituzione C -> T
+Posizione 28248 : inserimento di G
+Posizione 28249 : inserimento di A
+Posizione 28250 : inserimento di T
+Posizione 28251 : inserimento di T
+Posizione 28252 : inserimento di T
+Posizione 28253 : inserimento di C
+Posizione 28271 : inserimento di A
+Posizione 28461 : sostituzione A -> G
+Posizione 28881 : sostituzione G -> T
+Posizione 28916 : sostituzione G -> T
+Posizione 29050 : sostituzione G -> A
+Posizione 29402 : sostituzione G -> T
+Posizione 29509 : sostituzione C -> T
+Posizione 29543 : sostituzione G -> T
+Posizione 29742 : sostituzione G -> T
+-----------------------------------------------------------------------------------------------------------------
+Variazione di: OL700537.1
+Posizione 186 : sostituzione C -> T
+Posizione 210 : sostituzione G -> T
+Posizione 241 : sostituzione C -> T
+Posizione 3037 : sostituzione C -> T
+Posizione 3259 : sostituzione G -> T
+Posizione 4181 : sostituzione G -> T
+Posizione 5192 : sostituzione C -> T
+Posizione 6402 : sostituzione C -> T
+Posizione 7124 : sostituzione C -> T
+Posizione 8349 : sostituzione G -> A
+Posizione 8956 : sostituzione C -> T
+Posizione 8986 : sostituzione C -> T
+Posizione 9053 : sostituzione G -> T
+Posizione 9072 : sostituzione C -> T
+Posizione 10029 : sostituzione C -> T
+Posizione 11201 : sostituzione A -> G
+Posizione 11332 : sostituzione A -> G
+Posizione 14408 : sostituzione C -> T
+Posizione 15451 : sostituzione G -> A
+Posizione 16466 : sostituzione C -> T
+Posizione 17236 : sostituzione A -> G
+Posizione 18657 : sostituzione C -> T
+Posizione 19220 : sostituzione C -> T
+Posizione 21618 : sostituzione C -> G
+Posizione 21776 : sostituzione G -> T
+Posizione 21987 : sostituzione G -> A
+Posizione 22029 : inserimento di A
+Posizione 22030 : inserimento di G
+Posizione 22031 : inserimento di T
+Posizione 22032 : inserimento di T
+Posizione 22033 : inserimento di C
+Posizione 22034 : inserimento di A
+Posizione 22917 : sostituzione T -> G
+Posizione 22995 : sostituzione C -> A
+Posizione 23403 : sostituzione A -> G
+Posizione 23604 : sostituzione C -> G
+Posizione 24208 : sostituzione C -> T
+Posizione 24280 : sostituzione T -> C
+Posizione 24410 : sostituzione G -> A
+Posizione 25469 : sostituzione C -> T
+Posizione 26767 : sostituzione T -> C
+Posizione 27005 : sostituzione C -> T
+Posizione 27638 : sostituzione T -> C
+Posizione 27752 : sostituzione C -> T
+Posizione 27874 : sostituzione C -> T
+Posizione 27999 : sostituzione C -> T
+Posizione 28248 : inserimento di G
+Posizione 28249 : inserimento di A
+Posizione 28250 : inserimento di T
+Posizione 28251 : inserimento di T
+Posizione 28252 : inserimento di T
+Posizione 28253 : inserimento di C
+Posizione 28271 : inserimento di A
+Posizione 28461 : sostituzione A -> G
+Posizione 28881 : sostituzione G -> T
+Posizione 28916 : sostituzione G -> T
+Posizione 29402 : sostituzione G -> T
+Posizione 29742 : sostituzione G -> T
+-----------------------------------------------------------------------------------------------------------------
+Variazione di: OL700524.1
+Posizione 210 : sostituzione G -> T
+Posizione 241 : sostituzione C -> T
+Posizione 3037 : sostituzione C -> T
+Posizione 4181 : sostituzione G -> T
+Posizione 6402 : sostituzione C -> T
+Posizione 7124 : sostituzione C -> T
+Posizione 8986 : sostituzione C -> T
+Posizione 9053 : sostituzione G -> T
+Posizione 10029 : sostituzione C -> T
+Posizione 10171 : sostituzione A -> G
+Posizione 11201 : sostituzione A -> G
+Posizione 11332 : sostituzione A -> G
+Posizione 11456 : sostituzione A -> G
+Posizione 14408 : sostituzione C -> T
+Posizione 15451 : sostituzione G -> A
+Posizione 16466 : sostituzione C -> T
+Posizione 19220 : sostituzione C -> T
+Posizione 21058 : sostituzione C -> T
+Posizione 21618 : sostituzione C -> G
+Posizione 21987 : sostituzione G -> A
+Posizione 22029 : inserimento di A
+Posizione 22030 : inserimento di G
+Posizione 22031 : inserimento di T
+Posizione 22032 : inserimento di T
+Posizione 22033 : inserimento di C
+Posizione 22034 : inserimento di A
+Posizione 22335 : sostituzione G -> T
+Posizione 22917 : sostituzione T -> G
+Posizione 22995 : sostituzione C -> A
+Posizione 23284 : sostituzione T -> C
+Posizione 23403 : sostituzione A -> G
+Posizione 23604 : sostituzione C -> G
+Posizione 24410 : sostituzione G -> A
+Posizione 25339 : sostituzione C -> T
+Posizione 25469 : sostituzione C -> T
+Posizione 25553 : sostituzione C -> T
+Posizione 26144 : sostituzione G -> A
+Posizione 26767 : sostituzione T -> C
+Posizione 27638 : sostituzione T -> C
+Posizione 27752 : sostituzione C -> T
+Posizione 27874 : sostituzione C -> T
+Posizione 27916 : sostituzione G -> T
+Posizione 28248 : inserimento di G
+Posizione 28249 : inserimento di A
+Posizione 28250 : inserimento di T
+Posizione 28251 : inserimento di T
+Posizione 28252 : inserimento di T
+Posizione 28253 : inserimento di C
+Posizione 28271 : inserimento di A
+Posizione 28461 : sostituzione A -> G
+Posizione 28657 : sostituzione C -> T
+Posizione 28881 : sostituzione G -> T
+Posizione 28916 : sostituzione G -> T
+Posizione 29050 : sostituzione G -> A
+Posizione 29402 : sostituzione G -> T
+Posizione 29509 : sostituzione C -> T
+Posizione 29648 : sostituzione G -> T
+Posizione 29742 : sostituzione G -> T
+-----------------------------------------------------------------------------------------------------------------
+Variazione di: OL700530.1
+Posizione 210 : sostituzione G -> T
+Posizione 241 : sostituzione C -> T
+Posizione 3037 : sostituzione C -> T
+Posizione 3948 : sostituzione A -> G
+Posizione 4181 : sostituzione G -> T
+Posizione 6013 : sostituzione A -> G
+Posizione 6402 : sostituzione C -> T
+Posizione 7124 : sostituzione C -> T
+Posizione 8986 : sostituzione C -> T
+Posizione 9053 : sostituzione G -> T
+Posizione 10029 : sostituzione C -> T
+Posizione 11201 : sostituzione A -> G
+Posizione 11332 : sostituzione A -> G
+Posizione 11562 : sostituzione G -> T
+Posizione 12115 : sostituzione C -> T
+Posizione 14408 : sostituzione C -> T
+Posizione 15240 : sostituzione C -> T
+Posizione 15451 : sostituzione G -> A
+Posizione 16466 : sostituzione C -> T
+Posizione 19170 : sostituzione C -> T
+Posizione 19220 : sostituzione C -> T
+Posizione 21618 : sostituzione C -> G
+Posizione 21859 : sostituzione C -> T
+Posizione 21987 : sostituzione G -> A
+Posizione 22029 : inserimento di A
+Posizione 22030 : inserimento di G
+Posizione 22031 : inserimento di T
+Posizione 22032 : inserimento di T
+Posizione 22033 : inserimento di C
+Posizione 22034 : inserimento di A
+Posizione 22917 : sostituzione T -> G
+Posizione 22995 : sostituzione C -> A
+Posizione 23403 : sostituzione A -> G
+Posizione 23604 : sostituzione C -> G
+Posizione 24410 : sostituzione G -> A
+Posizione 25469 : sostituzione C -> T
+Posizione 25658 : sostituzione C -> T
+Posizione 26107 : sostituzione G -> C
+Posizione 26767 : sostituzione T -> C
+Posizione 27507 : sostituzione A -> C
+Posizione 27638 : sostituzione T -> C
+Posizione 27752 : sostituzione C -> T
+Posizione 27874 : sostituzione C -> T
+Posizione 28248 : inserimento di G
+Posizione 28249 : inserimento di A
+Posizione 28250 : inserimento di T
+Posizione 28251 : inserimento di T
+Posizione 28252 : inserimento di T
+Posizione 28253 : inserimento di C
+Posizione 28271 : inserimento di A
+Posizione 28461 : sostituzione A -> G
+Posizione 28881 : sostituzione G -> T
+Posizione 28916 : sostituzione G -> T
+Posizione 29402 : sostituzione G -> T
+Posizione 29742 : sostituzione G -> T
+-----------------------------------------------------------------------------------------------------------------
+Variazione di: OL700538.1
+Posizione 210 : sostituzione G -> T
+Posizione 241 : sostituzione C -> T
+Posizione 3037 : sostituzione C -> T
+Posizione 3096 : sostituzione C -> T
+Posizione 4181 : sostituzione G -> T
+Posizione 6402 : sostituzione C -> T
+Posizione 6865 : sostituzione G -> T
+Posizione 7124 : sostituzione C -> T
+Posizione 8986 : sostituzione C -> T
+Posizione 9053 : sostituzione G -> T
+Posizione 10029 : sostituzione C -> T
+Posizione 11201 : sostituzione A -> G
+Posizione 11332 : sostituzione A -> G
+Posizione 11669 : sostituzione C -> T
+Posizione 12049 : sostituzione C -> T
+Posizione 14408 : sostituzione C -> T
+Posizione 14925 : sostituzione C -> T
+Posizione 15240 : sostituzione C -> T
+Posizione 15451 : sostituzione G -> A
+Posizione 16466 : sostituzione C -> T
+Posizione 19220 : sostituzione C -> T
+Posizione 21137 : sostituzione A -> G
+Posizione 21618 : sostituzione C -> G
+Posizione 21846 : sostituzione C -> T
+Posizione 21987 : sostituzione G -> A
+Posizione 22029 : inserimento di A
+Posizione 22030 : inserimento di G
+Posizione 22031 : inserimento di T
+Posizione 22032 : inserimento di T
+Posizione 22033 : inserimento di C
+Posizione 22034 : inserimento di A
+Posizione 22917 : sostituzione T -> G
+Posizione 22995 : sostituzione C -> A
+Posizione 23403 : sostituzione A -> G
+Posizione 23604 : sostituzione C -> G
+Posizione 24110 : sostituzione A -> C
+Posizione 24410 : sostituzione G -> A
+Posizione 25439 : sostituzione A -> C
+Posizione 25469 : sostituzione C -> T
+Posizione 25913 : sostituzione G -> A
+Posizione 26146 : sostituzione T -> C
+Posizione 26767 : sostituzione T -> C
+Posizione 27539 : sostituzione T -> C
+Posizione 27638 : sostituzione T -> C
+Posizione 27752 : sostituzione C -> T
+Posizione 27874 : sostituzione C -> T
+Posizione 28248 : inserimento di G
+Posizione 28249 : inserimento di A
+Posizione 28250 : inserimento di T
+Posizione 28251 : inserimento di T
+Posizione 28252 : inserimento di T
+Posizione 28253 : inserimento di C
+Posizione 28271 : inserimento di A
+Posizione 28461 : sostituzione A -> G
+Posizione 28748 : sostituzione C -> T
+Posizione 28881 : sostituzione G -> T
+Posizione 28916 : sostituzione G -> T
+Posizione 29095 : sostituzione C -> T
+Posizione 29402 : sostituzione G -> T
+Posizione 29742 : sostituzione G -> T
+-----------------------------------------------------------------------------------------------------------------
+Variazione di: OL700543.1
+Posizione 210 : sostituzione G -> T
+Posizione 241 : sostituzione C -> T
+Posizione 1889 : sostituzione C -> T
+Posizione 3037 : sostituzione C -> T
+Posizione 3923 : sostituzione C -> T
+Posizione 4181 : sostituzione G -> T
+Posizione 5284 : sostituzione C -> T
+Posizione 6402 : sostituzione C -> T
+Posizione 7124 : sostituzione C -> T
+Posizione 8829 : sostituzione C -> T
+Posizione 8986 : sostituzione C -> T
+Posizione 9053 : sostituzione G -> T
+Posizione 10029 : sostituzione C -> T
+Posizione 11201 : sostituzione A -> G
+Posizione 11332 : sostituzione A -> G
+Posizione 12793 : sostituzione G -> T
+Posizione 14408 : sostituzione C -> T
+Posizione 14599 : sostituzione C -> T
+Posizione 15451 : sostituzione G -> A
+Posizione 16466 : sostituzione C -> T
+Posizione 19006 : sostituzione G -> T
+Posizione 19220 : sostituzione C -> T
+Posizione 21618 : sostituzione C -> G
+Posizione 21846 : sostituzione C -> T
+Posizione 21987 : sostituzione G -> A
+Posizione 22029 : inserimento di A
+Posizione 22030 : inserimento di G
+Posizione 22031 : inserimento di T
+Posizione 22032 : inserimento di T
+Posizione 22033 : inserimento di C
+Posizione 22034 : inserimento di A
+Posizione 22917 : sostituzione T -> G
+Posizione 22995 : sostituzione C -> A
+Posizione 23403 : sostituzione A -> G
+Posizione 23587 : sostituzione G -> C
+Posizione 23604 : sostituzione C -> G
+Posizione 24410 : sostituzione G -> A
+Posizione 25088 : sostituzione G -> T
+Posizione 25469 : sostituzione C -> T
+Posizione 26767 : sostituzione T -> C
+Posizione 27603 : sostituzione C -> T
+Posizione 27638 : sostituzione T -> C
+Posizione 27752 : sostituzione C -> T
+Posizione 27874 : sostituzione C -> T
+Posizione 28248 : inserimento di G
+Posizione 28249 : inserimento di A
+Posizione 28250 : inserimento di T
+Posizione 28251 : inserimento di T
+Posizione 28252 : inserimento di T
+Posizione 28253 : inserimento di C
+Posizione 28271 : inserimento di A
+Posizione 28461 : sostituzione A -> G
+Posizione 28881 : sostituzione G -> T
+Posizione 28916 : sostituzione G -> T
+Posizione 29119 : sostituzione C -> T
+Posizione 29402 : sostituzione G -> T
+Posizione 29742 : sostituzione G -> T
+Posizione 29781 : sostituzione G -> T
+-----------------------------------------------------------------------------------------------------------------
+Variazione di: OL700544.1
+Posizione 210 : sostituzione G -> T
+Posizione 241 : sostituzione C -> T
+Posizione 1244 : sostituzione G -> A
+Posizione 3037 : sostituzione C -> T
+Posizione 4181 : sostituzione G -> T
+Posizione 6402 : sostituzione C -> T
+Posizione 7124 : sostituzione C -> T
+Posizione 8829 : sostituzione C -> T
+Posizione 8964 : sostituzione C -> T
+Posizione 8986 : sostituzione C -> T
+Posizione 9053 : sostituzione G -> T
+Posizione 10029 : sostituzione C -> T
+Posizione 11201 : sostituzione A -> G
+Posizione 11332 : sostituzione A -> G
+Posizione 12793 : sostituzione G -> T
+Posizione 14408 : sostituzione C -> T
+Posizione 15451 : sostituzione G -> A
+Posizione 16466 : sostituzione C -> T
+Posizione 17763 : sostituzione T -> C
+Posizione 19006 : sostituzione G -> T
+Posizione 19220 : sostituzione C -> T
+Posizione 19524 : sostituzione C -> T
+Posizione 21618 : sostituzione C -> G
+Posizione 21846 : sostituzione C -> T
+Posizione 21987 : sostituzione G -> A
+Posizione 22029 : inserimento di A
+Posizione 22030 : inserimento di G
+Posizione 22031 : inserimento di T
+Posizione 22032 : inserimento di T
+Posizione 22033 : inserimento di C
+Posizione 22034 : inserimento di A
+Posizione 22917 : sostituzione T -> G
+Posizione 22995 : sostituzione C -> A
+Posizione 23403 : sostituzione A -> G
+Posizione 23587 : sostituzione G -> C
+Posizione 23604 : sostituzione C -> G
+Posizione 24410 : sostituzione G -> A
+Posizione 25469 : sostituzione C -> T
+Posizione 26767 : sostituzione T -> C
+Posizione 27638 : sostituzione T -> C
+Posizione 27752 : sostituzione C -> T
+Posizione 27874 : sostituzione C -> T
+Posizione 28248 : inserimento di G
+Posizione 28249 : inserimento di A
+Posizione 28250 : inserimento di T
+Posizione 28251 : inserimento di T
+Posizione 28252 : inserimento di T
+Posizione 28253 : inserimento di C
+Posizione 28271 : inserimento di A
+Posizione 28461 : sostituzione A -> G
+Posizione 28881 : sostituzione G -> T
+Posizione 28916 : sostituzione G -> T
+Posizione 29402 : sostituzione G -> T
+Posizione 29742 : sostituzione G -> T
+-----------------------------------------------------------------------------------------------------------------
+Variazione di: OL700541.1
+Posizione 210 : sostituzione G -> T
+Posizione 241 : sostituzione C -> T
+Posizione 1371 : sostituzione A -> G
+Posizione 1843 : sostituzione G -> T
+Posizione 2929 : sostituzione A -> G
+Posizione 3037 : sostituzione C -> T
+Posizione 3792 : sostituzione C -> T
+Posizione 4181 : sostituzione G -> T
+Posizione 6040 : sostituzione C -> T
+Posizione 6402 : sostituzione C -> T
+Posizione 7124 : sostituzione C -> T
+Posizione 7926 : sostituzione C -> T
+Posizione 8986 : sostituzione C -> T
+Posizione 9053 : sostituzione G -> T
+Posizione 10029 : sostituzione C -> T
+Posizione 11201 : sostituzione A -> G
+Posizione 11332 : sostituzione A -> G
+Posizione 14014 : sostituzione T -> G
+Posizione 14408 : sostituzione C -> T
+Posizione 15451 : sostituzione G -> A
+Posizione 16466 : sostituzione C -> T
+Posizione 19220 : sostituzione C -> T
+Posizione 21618 : sostituzione C -> G
+Posizione 21987 : sostituzione G -> A
+Posizione 22029 : inserimento di A
+Posizione 22030 : inserimento di G
+Posizione 22031 : inserimento di T
+Posizione 22032 : inserimento di T
+Posizione 22033 : inserimento di C
+Posizione 22034 : inserimento di A
+Posizione 22917 : sostituzione T -> G
+Posizione 22995 : sostituzione C -> A
+Posizione 23403 : sostituzione A -> G
+Posizione 23604 : sostituzione C -> G
+Posizione 24410 : sostituzione G -> A
+Posizione 25469 : sostituzione C -> T
+Posizione 26767 : sostituzione T -> C
+Posizione 26951 : sostituzione G -> C
+Posizione 27638 : sostituzione T -> C
+Posizione 27752 : sostituzione C -> T
+Posizione 27874 : sostituzione C -> T
+Posizione 28236 : sostituzione C -> T
+Posizione 28248 : inserimento di G
+Posizione 28249 : inserimento di A
+Posizione 28250 : inserimento di T
+Posizione 28251 : inserimento di T
+Posizione 28252 : inserimento di T
+Posizione 28253 : inserimento di C
+Posizione 28271 : inserimento di A
+Posizione 28461 : sostituzione A -> G
+Posizione 28881 : sostituzione G -> T
+Posizione 28916 : sostituzione G -> T
+Posizione 29402 : sostituzione G -> T
+Posizione 29700 : sostituzione A -> G
+Posizione 29742 : sostituzione G -> T
+-----------------------------------------------------------------------------------------------------------------
+Variazione di: OL700533.1
+Posizione 210 : sostituzione G -> T
+Posizione 241 : sostituzione C -> T
+Posizione 521 : inserimento di G
+Posizione 522 : inserimento di T
+Posizione 523 : inserimento di T
+Posizione 1616 : sostituzione C -> A
+Posizione 1684 : sostituzione C -> T
+Posizione 3037 : sostituzione C -> T
+Posizione 5164 : sostituzione G -> T
+Posizione 5184 : sostituzione C -> T
+Posizione 5584 : sostituzione A -> G
+Posizione 6616 : sostituzione A -> G
+Posizione 7393 : sostituzione G -> T
+Posizione 8131 : sostituzione G -> T
+Posizione 9891 : sostituzione C -> T
+Posizione 11083 : sostituzione G -> T
+Posizione 11418 : sostituzione T -> C
+Posizione 11514 : sostituzione C -> T
+Posizione 12049 : sostituzione C -> T
+Posizione 13019 : sostituzione C -> T
+Posizione 14408 : sostituzione C -> T
+Posizione 15451 : sostituzione G -> A
+Posizione 16466 : sostituzione C -> T
+Posizione 21618 : sostituzione C -> G
+Posizione 21987 : sostituzione G -> A
+Posizione 22029 : inserimento di A
+Posizione 22030 : inserimento di G
+Posizione 22031 : inserimento di T
+Posizione 22032 : inserimento di T
+Posizione 22033 : inserimento di C
+Posizione 22034 : inserimento di A
+Posizione 22227 : sostituzione C -> T
+Posizione 22427 : sostituzione G -> A
+Posizione 22917 : sostituzione T -> G
+Posizione 22995 : sostituzione C -> A
+Posizione 23403 : sostituzione A -> G
+Posizione 23604 : sostituzione C -> G
+Posizione 24410 : sostituzione G -> A
+Posizione 25469 : sostituzione C -> T
+Posizione 26753 : sostituzione C -> T
+Posizione 26767 : sostituzione T -> C
+Posizione 27638 : sostituzione T -> C
+Posizione 27752 : sostituzione C -> T
+Posizione 28153 : sostituzione C -> T
+Posizione 28248 : inserimento di G
+Posizione 28249 : inserimento di A
+Posizione 28250 : inserimento di T
+Posizione 28251 : inserimento di T
+Posizione 28252 : inserimento di T
+Posizione 28253 : inserimento di C
+Posizione 28271 : inserimento di A
+Posizione 28326 : sostituzione G -> T
+Posizione 28461 : sostituzione A -> G
+Posizione 28881 : sostituzione G -> T
+Posizione 29402 : sostituzione G -> T
+Posizione 29742 : sostituzione G -> T
+-----------------------------------------------------------------------------------------------------------------
+Variazione di: OL700545.1
+Posizione 210 : sostituzione G -> T
+Posizione 241 : sostituzione C -> T
+Posizione 1684 : sostituzione C -> T
+Posizione 3037 : sostituzione C -> T
+Posizione 4201 : sostituzione G -> T
+Posizione 5164 : sostituzione G -> T
+Posizione 5184 : sostituzione C -> T
+Posizione 5584 : sostituzione A -> G
+Posizione 8642 : sostituzione G -> A
+Posizione 9194 : sostituzione A -> G
+Posizione 9891 : sostituzione C -> T
+Posizione 11418 : sostituzione T -> C
+Posizione 11514 : sostituzione C -> T
+Posizione 11956 : sostituzione C -> T
+Posizione 12049 : sostituzione C -> T
+Posizione 13019 : sostituzione C -> T
+Posizione 14408 : sostituzione C -> T
+Posizione 15120 : sostituzione C -> T
+Posizione 15451 : sostituzione G -> A
+Posizione 15982 : sostituzione G -> T
+Posizione 16466 : sostituzione C -> T
+Posizione 21618 : sostituzione C -> G
+Posizione 21846 : sostituzione C -> T
+Posizione 21987 : sostituzione G -> A
+Posizione 22029 : inserimento di A
+Posizione 22030 : inserimento di G
+Posizione 22031 : inserimento di T
+Posizione 22032 : inserimento di T
+Posizione 22033 : inserimento di C
+Posizione 22034 : inserimento di A
+Posizione 22227 : sostituzione C -> T
+Posizione 22427 : sostituzione G -> A
+Posizione 22917 : sostituzione T -> G
+Posizione 22995 : sostituzione C -> A
+Posizione 23403 : sostituzione A -> G
+Posizione 23604 : sostituzione C -> G
+Posizione 24410 : sostituzione G -> A
+Posizione 25469 : sostituzione C -> T
+Posizione 26767 : sostituzione T -> C
+Posizione 27638 : sostituzione T -> C
+Posizione 27752 : sostituzione C -> T
+Posizione 28248 : inserimento di G
+Posizione 28249 : inserimento di A
+Posizione 28250 : inserimento di T
+Posizione 28251 : inserimento di T
+Posizione 28252 : inserimento di T
+Posizione 28253 : inserimento di C
+Posizione 28271 : inserimento di A
+Posizione 28326 : sostituzione G -> T
+Posizione 28461 : sostituzione A -> G
+Posizione 28881 : sostituzione G -> T
+Posizione 29402 : sostituzione G -> T
+Posizione 29409 : sostituzione C -> T
+Posizione 29742 : sostituzione G -> T
+-----------------------------------------------------------------------------------------------------------------
+Posizione 186 : sostituzione C -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 210 : sostituzione G -> T , la variazione rispetto al reference si ripete in 13 genomi
+Posizione 241 : sostituzione C -> T , la variazione rispetto al reference si ripete in 13 genomi
+Posizione 521 : inserimento di G , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 522 : inserimento di T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 523 : inserimento di T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 1048 : sostituzione G -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 1244 : sostituzione G -> A , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 1371 : sostituzione A -> G , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 1616 : sostituzione C -> A , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 1684 : sostituzione C -> T , la variazione rispetto al reference si ripete in 2 genomi
+Posizione 1843 : sostituzione G -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 1889 : sostituzione C -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 2462 : sostituzione C -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 2929 : sostituzione A -> G , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 3037 : sostituzione C -> T , la variazione rispetto al reference si ripete in 13 genomi
+Posizione 3096 : sostituzione C -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 3259 : sostituzione G -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 3792 : sostituzione C -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 3923 : sostituzione C -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 3948 : sostituzione A -> G , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 4181 : sostituzione G -> T , la variazione rispetto al reference si ripete in 11 genomi
+Posizione 4201 : sostituzione G -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 4414 : sostituzione A -> G , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 5164 : sostituzione G -> T , la variazione rispetto al reference si ripete in 2 genomi
+Posizione 5184 : sostituzione C -> T , la variazione rispetto al reference si ripete in 2 genomi
+Posizione 5192 : sostituzione C -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 5213 : sostituzione T -> C , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 5284 : sostituzione C -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 5584 : sostituzione A -> G , la variazione rispetto al reference si ripete in 2 genomi
+Posizione 6013 : sostituzione A -> G , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 6040 : sostituzione C -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 6402 : sostituzione C -> T , la variazione rispetto al reference si ripete in 11 genomi
+Posizione 6408 : sostituzione C -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 6616 : sostituzione A -> G , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 6865 : sostituzione G -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 7124 : sostituzione C -> T , la variazione rispetto al reference si ripete in 11 genomi
+Posizione 7393 : sostituzione G -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 7926 : sostituzione C -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 8131 : sostituzione G -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 8174 : sostituzione G -> A , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 8349 : sostituzione G -> A , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 8642 : sostituzione G -> A , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 8829 : sostituzione C -> T , la variazione rispetto al reference si ripete in 2 genomi
+Posizione 8956 : sostituzione C -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 8964 : sostituzione C -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 8986 : sostituzione C -> T , la variazione rispetto al reference si ripete in 11 genomi
+Posizione 9053 : sostituzione G -> T , la variazione rispetto al reference si ripete in 11 genomi
+Posizione 9072 : sostituzione C -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 9194 : sostituzione A -> G , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 9868 : sostituzione T -> C , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 9891 : sostituzione C -> T , la variazione rispetto al reference si ripete in 2 genomi
+Posizione 10029 : sostituzione C -> T , la variazione rispetto al reference si ripete in 11 genomi
+Posizione 10171 : sostituzione A -> G , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 11083 : sostituzione G -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 11201 : sostituzione A -> G , la variazione rispetto al reference si ripete in 11 genomi
+Posizione 11332 : sostituzione A -> G , la variazione rispetto al reference si ripete in 11 genomi
+Posizione 11418 : sostituzione T -> C , la variazione rispetto al reference si ripete in 2 genomi
+Posizione 11456 : sostituzione A -> G , la variazione rispetto al reference si ripete in 2 genomi
+Posizione 11514 : sostituzione C -> T , la variazione rispetto al reference si ripete in 2 genomi
+Posizione 11562 : sostituzione G -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 11669 : sostituzione C -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 11956 : sostituzione C -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 12049 : sostituzione C -> T , la variazione rispetto al reference si ripete in 3 genomi
+Posizione 12115 : sostituzione C -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 12793 : sostituzione G -> T , la variazione rispetto al reference si ripete in 2 genomi
+Posizione 13019 : sostituzione C -> T , la variazione rispetto al reference si ripete in 2 genomi
+Posizione 14014 : sostituzione T -> G , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 14408 : sostituzione C -> T , la variazione rispetto al reference si ripete in 13 genomi
+Posizione 14599 : sostituzione C -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 14925 : sostituzione C -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 15120 : sostituzione C -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 15240 : sostituzione C -> T , la variazione rispetto al reference si ripete in 2 genomi
+Posizione 15451 : sostituzione G -> A , la variazione rispetto al reference si ripete in 13 genomi
+Posizione 15982 : sostituzione G -> A , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 15982 : sostituzione G -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 16466 : sostituzione C -> T , la variazione rispetto al reference si ripete in 13 genomi
+Posizione 17236 : sostituzione A -> G , la variazione rispetto al reference si ripete in 3 genomi
+Posizione 17763 : sostituzione T -> C , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 18360 : sostituzione A -> G , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 18468 : sostituzione A -> G , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 18657 : sostituzione C -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 19006 : sostituzione G -> T , la variazione rispetto al reference si ripete in 2 genomi
+Posizione 19017 : sostituzione C -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 19170 : sostituzione C -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 19220 : sostituzione C -> T , la variazione rispetto al reference si ripete in 11 genomi
+Posizione 19524 : sostituzione C -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 19969 : sostituzione G -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 19983 : sostituzione C -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 20937 : sostituzione G -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 21058 : sostituzione C -> T , la variazione rispetto al reference si ripete in 2 genomi
+Posizione 21137 : sostituzione A -> G , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 21618 : sostituzione C -> G , la variazione rispetto al reference si ripete in 13 genomi
+Posizione 21776 : sostituzione G -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 21800 : sostituzione G -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 21846 : sostituzione C -> T , la variazione rispetto al reference si ripete in 4 genomi
+Posizione 21859 : sostituzione C -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 21987 : sostituzione G -> A , la variazione rispetto al reference si ripete in 13 genomi
+Posizione 22000 : sostituzione C -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 22029 : inserimento di A , la variazione rispetto al reference si ripete in 13 genomi
+Posizione 22030 : inserimento di G , la variazione rispetto al reference si ripete in 13 genomi
+Posizione 22031 : inserimento di T , la variazione rispetto al reference si ripete in 13 genomi
+Posizione 22032 : inserimento di T , la variazione rispetto al reference si ripete in 13 genomi
+Posizione 22033 : inserimento di C , la variazione rispetto al reference si ripete in 13 genomi
+Posizione 22034 : inserimento di A , la variazione rispetto al reference si ripete in 13 genomi
+Posizione 22227 : sostituzione C -> T , la variazione rispetto al reference si ripete in 2 genomi
+Posizione 22335 : sostituzione G -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 22427 : sostituzione G -> A , la variazione rispetto al reference si ripete in 2 genomi
+Posizione 22917 : sostituzione T -> G , la variazione rispetto al reference si ripete in 13 genomi
+Posizione 22995 : sostituzione C -> A , la variazione rispetto al reference si ripete in 13 genomi
+Posizione 23284 : sostituzione T -> C , la variazione rispetto al reference si ripete in 2 genomi
+Posizione 23403 : sostituzione A -> G , la variazione rispetto al reference si ripete in 13 genomi
+Posizione 23587 : sostituzione G -> C , la variazione rispetto al reference si ripete in 2 genomi
+Posizione 23604 : sostituzione C -> G , la variazione rispetto al reference si ripete in 13 genomi
+Posizione 24110 : sostituzione A -> C , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 24208 : sostituzione C -> T , la variazione rispetto al reference si ripete in 3 genomi
+Posizione 24280 : sostituzione T -> C , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 24410 : sostituzione G -> A , la variazione rispetto al reference si ripete in 13 genomi
+Posizione 24989 : sostituzione C -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 25088 : sostituzione G -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 25339 : sostituzione C -> T , la variazione rispetto al reference si ripete in 2 genomi
+Posizione 25439 : sostituzione A -> C , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 25469 : sostituzione C -> T , la variazione rispetto al reference si ripete in 13 genomi
+Posizione 25553 : sostituzione C -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 25658 : sostituzione C -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 25702 : sostituzione C -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 25913 : sostituzione G -> A , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 26107 : sostituzione G -> C , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 26144 : sostituzione G -> A , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 26146 : sostituzione T -> C , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 26514 : sostituzione A -> G , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 26753 : sostituzione C -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 26767 : sostituzione T -> C , la variazione rispetto al reference si ripete in 13 genomi
+Posizione 26951 : sostituzione G -> C , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 27005 : sostituzione C -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 27507 : sostituzione A -> C , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 27527 : sostituzione C -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 27539 : sostituzione T -> C , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 27603 : sostituzione C -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 27625 : sostituzione C -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 27638 : sostituzione T -> C , la variazione rispetto al reference si ripete in 13 genomi
+Posizione 27752 : sostituzione C -> T , la variazione rispetto al reference si ripete in 13 genomi
+Posizione 27874 : sostituzione C -> T , la variazione rispetto al reference si ripete in 11 genomi
+Posizione 27916 : sostituzione G -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 27999 : sostituzione C -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 28086 : sostituzione G -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 28153 : sostituzione C -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 28236 : sostituzione C -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 28248 : inserimento di G , la variazione rispetto al reference si ripete in 13 genomi
+Posizione 28249 : inserimento di A , la variazione rispetto al reference si ripete in 13 genomi
+Posizione 28250 : inserimento di T , la variazione rispetto al reference si ripete in 13 genomi
+Posizione 28251 : inserimento di T , la variazione rispetto al reference si ripete in 13 genomi
+Posizione 28252 : inserimento di T , la variazione rispetto al reference si ripete in 13 genomi
+Posizione 28253 : inserimento di C , la variazione rispetto al reference si ripete in 13 genomi
+Posizione 28271 : inserimento di A , la variazione rispetto al reference si ripete in 13 genomi
+Posizione 28326 : sostituzione G -> T , la variazione rispetto al reference si ripete in 2 genomi
+Posizione 28461 : sostituzione A -> G , la variazione rispetto al reference si ripete in 13 genomi
+Posizione 28657 : sostituzione C -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 28748 : sostituzione C -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 28881 : sostituzione G -> T , la variazione rispetto al reference si ripete in 13 genomi
+Posizione 28895 : sostituzione G -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 28916 : sostituzione G -> T , la variazione rispetto al reference si ripete in 11 genomi
+Posizione 29050 : sostituzione G -> A , la variazione rispetto al reference si ripete in 2 genomi
+Posizione 29095 : sostituzione C -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 29119 : sostituzione C -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 29402 : sostituzione G -> T , la variazione rispetto al reference si ripete in 13 genomi
+Posizione 29409 : sostituzione C -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 29509 : sostituzione C -> T , la variazione rispetto al reference si ripete in 2 genomi
+Posizione 29543 : sostituzione G -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 29648 : sostituzione G -> T , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 29700 : sostituzione A -> G , la variazione rispetto al reference si ripete in 1 genomi
+Posizione 29742 : sostituzione G -> T , la variazione rispetto al reference si ripete in 13 genomi
+Posizione 29781 : sostituzione G -> T , la variazione rispetto al reference si ripete in 1 genomi
+-----------------------------------------------------------------------------------------------------------------
+Il genoma OL700538.1 è quello con il numero massimo di variazioni:  60
+Il genoma OL700521.1 è quello con il numero minimo di variazioni:  49
+-----------------------------------------------------------------------------------------------------------------
+Elenco delle posizioni del reference rispetto a cui tutti i genomi variano:
+
+Posizione 210
+Posizione 241
+Posizione 3037
+Posizione 14408
+Posizione 15451
+Posizione 16466
+Posizione 21618
+Posizione 21987
+Posizione 22029
+Posizione 22030
+Posizione 22031
+Posizione 22032
+Posizione 22033
+Posizione 22034
+Posizione 22917
+Posizione 22995
+Posizione 23403
+Posizione 23604
+Posizione 24410
+Posizione 25469
+Posizione 26767
+Posizione 27638
+Posizione 27752
+Posizione 28248
+Posizione 28249
+Posizione 28250
+Posizione 28251
+Posizione 28252
+Posizione 28253
+Posizione 28271
+Posizione 28461
+Posizione 28881
+Posizione 29402
+Posizione 29742
+
+Numero di posizioni del reference rispetto a cui tutti i genomi variano: 34
+-----------------------------------------------------------------------------------------------------------------
+Elenco delle posizioni del reference rispetto a cui tutti i genomi variano allo stesso modo:
+
+Posizione 210 : sostituzione G -> T
+Posizione 241 : sostituzione C -> T
+Posizione 3037 : sostituzione C -> T
+Posizione 14408 : sostituzione C -> T
+Posizione 15451 : sostituzione G -> A
+Posizione 16466 : sostituzione C -> T
+Posizione 21618 : sostituzione C -> G
+Posizione 21987 : sostituzione G -> A
+Posizione 22029 : inserimento di A
+Posizione 22030 : inserimento di G
+Posizione 22031 : inserimento di T
+Posizione 22032 : inserimento di T
+Posizione 22033 : inserimento di C
+Posizione 22034 : inserimento di A
+Posizione 22917 : sostituzione T -> G
+Posizione 22995 : sostituzione C -> A
+Posizione 23403 : sostituzione A -> G
+Posizione 23604 : sostituzione C -> G
+Posizione 24410 : sostituzione G -> A
+Posizione 25469 : sostituzione C -> T
+Posizione 26767 : sostituzione T -> C
+Posizione 27638 : sostituzione T -> C
+Posizione 27752 : sostituzione C -> T
+Posizione 28248 : inserimento di G
+Posizione 28249 : inserimento di A
+Posizione 28250 : inserimento di T
+Posizione 28251 : inserimento di T
+Posizione 28252 : inserimento di T
+Posizione 28253 : inserimento di C
+Posizione 28271 : inserimento di A
+Posizione 28461 : sostituzione A -> G
+Posizione 28881 : sostituzione G -> T
+Posizione 29402 : sostituzione G -> T
+Posizione 29742 : sostituzione G -> T
+
+Numero di posizioni del reference rispetto a cui tutti i genomi variano allo stesso modo: 34
